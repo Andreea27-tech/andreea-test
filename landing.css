@@ -166,7 +166,7 @@ body {
       "grid-col-3"
       "grid-col-4";
     gap: 0;
-    margin: 0;
+    margin: 1px;
   }
   @media screen and (max-width: 800px) {
     .section-row-4-cols {
